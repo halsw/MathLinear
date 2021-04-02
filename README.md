@@ -1,4 +1,4 @@
-# [Linear Algebra Template Library](https://github.com/halsw/Quaternions) for Arduino and Teensy
+# [Linear Algebra Template Library](https://github.com/halsw/MathLinear) for Arduino and Teensy
 A library with template classes and functions for vectors and matrices
 
 The library provides mixed basic operations and mixed functions with support for vectors, matrices, scalars, complex numbers and quaternions as well as limited support (only for symmetric matrices) for eigenvalues and eigenvectors (and therefore for dependent on eigenvalue functions). The functions are overloaded versions of the [MathFixed](https://github.com/halsw/MathFixed) library so it can be used with double, float or any fixed point number type.
